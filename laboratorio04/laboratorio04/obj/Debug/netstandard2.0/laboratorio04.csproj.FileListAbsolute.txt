@@ -1,0 +1,11 @@
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\CarouselPage1.xaml.g.cs
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\ModalPage1.xaml.g.cs
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\laboratorio04.AssemblyInfoInputs.cache
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\laboratorio04.AssemblyInfo.cs
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\laboratorio04.csproj.CoreCompileInputs.cache
+C:\Users\miguel\source\repos\laboratorio04\laboratorio04\laboratorio04\obj\Debug\netstandard2.0\laboratorio04.csprojAssemblyReference.cache
